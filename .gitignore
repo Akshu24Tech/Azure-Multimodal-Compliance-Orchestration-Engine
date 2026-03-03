@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env
+
+# Project specific
+temp/
+*.mp4
+*.m4a
+*.webm
+logs/
+
+# IDEs
+.vscode/
+.idea/

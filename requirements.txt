@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langgraph
+langchain
+langchain-openai
+azure-ai-search-documents
+azure-storage-blob
+azure-identity
+yt-dlp
+python-dotenv
+pydantic
+pydantic-settings
+appinsights
+langsmith
